@@ -1,2 +1,4 @@
-# contact-list-react-native
-This repository aims to create a simple list of contacts with the functionality of inserting data, viewing and deleting them.
+Nama  : Raja Josua Simanungkalit
+NIM    : 120140134
+Kelas : RA
+
