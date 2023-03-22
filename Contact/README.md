@@ -11,15 +11,27 @@ Aplikasi untuk menambah kontak, mengedit, dan menghapus contact
 
 ### Cara menginstall aplikasi (dalam mode pengembangan)
 
-1. install dependensi yang diperlukan
+1. clone repository
+```
+git clone https://github.com/RajaJosuaS/UTS-PAM
+```
+
+2. pindah direktory
+```
+cd UTS-PAM
+cd Contact
+```
+
+3. install dependensi yang diperlukan
 ```
 npm install
 ```
-2. install expo
+4. install expo
 ```
 npm start
 ```
-3. build to apk (android)
+
+5. build to apk (android)
 ```sh 
 eas build:android
 ```
