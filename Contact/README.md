@@ -5,8 +5,14 @@ Contact
 Aplikasi untuk menambah kontak, mengedit, dan menghapus contact
 
 ### Screenshot APK
-## Tampilan Awal
-![Tampilan Awal](Contact/Screenshot/Tampilan Awal.jpg)
+#### Tampilan Awal
+![Tampilan Awal](https://github.com/RajaJosuaS/UTS-PAM/blob/main/Contact/Screenshot/Tampilan%20Awal.jpg)
+
+#### Tambahkan Data
+![Tambahkan Data](https://github.com/RajaJosuaS/UTS-PAM/blob/main/Contact/Screenshot/Tambahkan%20Data.jpg)
+
+#### Setelah Di Input
+![Setelah Di Input](https://github.com/RajaJosuaS/UTS-PAM/blob/main/Contact/Screenshot/Setelah%20Di%20Input.jpg)
 
 ### Daftar package yang digunakan
 - StyleSheet
