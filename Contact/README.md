@@ -4,6 +4,10 @@ Contact
 ### Deskripsi
 Aplikasi untuk menambah kontak, mengedit, dan menghapus contact
 
+### Screenshot APK
+## Tampilan Awal
+![Tampilan Awal](Contact/Screenshot/Tampilan Awal.jpg)
+
 ### Daftar package yang digunakan
 - StyleSheet
 - SectionList
