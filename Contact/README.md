@@ -21,5 +21,5 @@ npm start
 ```
 3. build to apk (android)
 ```sh 
-eas build android
+eas build:android
 ```
